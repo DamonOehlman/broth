@@ -32,7 +32,7 @@
     "st": "^1.2.0",
     "tap-finished": "0.0.1",
     "through2": "^2.0.0",
-    "ws": "^3.0.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "browserify": "^14.3.0",
